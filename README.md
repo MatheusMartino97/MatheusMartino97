@@ -28,7 +28,7 @@ Olá, me chamo **Matheus Martino**, sou de Cerquilho, SP, atualmente estou estud
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
 - 📫 Por favor, envie um email para matheus.martino97@gmail.com para me encontrar.
-- 📝 Veja meu <a href="https://gitconnected.com/johnatas-henrique/resume" target="_blank">Curriculum Vitae</a> para mais informações.
+- 📝 Veja meu <a href="https://gitconnected.com/matheusmartino97/resume" target="_blank">Curriculum Vitae</a> para mais informações.
 
 
 **Linguagens e ferramentas:**  
