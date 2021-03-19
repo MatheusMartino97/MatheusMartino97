@@ -14,7 +14,7 @@
 <br />
 <br />
 
-Olá, me chamo **Johnatas Henrique**, sou de São Paulo, Brasil, estou me capacitando para ser um **Desenvolvedor Full-Stack Júnior** 👨🏽‍💼 e atualmente trabalho como **Student in Summer Job na Trybe** 🚀. 
+Olá, me chamo **Matheus Martino**, sou de Cerquilho, SP, atualmente estou estudando **Desenvolvimento de Software** na <a href="https://github.com/betrybe">Trybe<a/>. 
 
 **Meus interesses pessoais:**
 
