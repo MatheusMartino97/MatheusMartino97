@@ -66,5 +66,6 @@ Olá, me chamo **Matheus Martino**, sou de Cerquilho, SP, atualmente estou estud
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MatheusMartino97" alt="MatheusMArtino97" /> </p>
+<p>:rocket: Venha para a <strong>Trybe</strong> você também! Clique <a href="https://www.betrybe.com/"><em>aqui</em></a> para saber mais!</p>
 
 ⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
