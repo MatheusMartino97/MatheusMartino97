@@ -50,12 +50,13 @@ Olá, me chamo **Matheus Martino**, sou de Cerquilho, SP, atualmente estou estud
 <!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" /> -->
 </p>
 
+<p>&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusMartino97&count_private=true&show_icons=true&theme=tokyonight&icon_color=268bd2&title_color=268bd2" alt="MatheusMartino97" />
+</p>
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMartino97&layout=compact&theme=tokyonight&title_color=268bd2" alt="MatheusMartino97" />
 </p>
-<p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusMartino97&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="MatheusMartino97" />
-</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MatheusMartino97" alt="MatheusMArtino97" /> </p>
 
