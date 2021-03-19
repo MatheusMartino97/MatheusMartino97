@@ -51,7 +51,7 @@ Olá, me chamo **Matheus Martino**, sou de Cerquilho, SP, atualmente estou estud
 </p>
 
 **Stats:**
-<div>
+<div style="display:flex; justify-content:space-evenly">
     <span>
     <img src="https://github-readme-stats.vercel.app/api?username=MatheusMartino97&count_private=true&show_icons=true&theme=tokyonight&icon_color=268bd2&title_color=268bd2" alt="MatheusMartino97" />
 </span>
