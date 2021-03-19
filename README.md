@@ -23,6 +23,7 @@ Olá, me chamo **Matheus Martino**, sou de Cerquilho, SP, atualmente estou estud
 - 👨🏽‍💻 Estou estudando desenvolvimento front-end com **React**;
 - 🌱 Atualmente estou estudando **React Router DOM**, **React Testing Library**, **Jest**, **Redux** afim de aprimorar e deixar meus projetos em **React** cada vez mais completos :slightly_smiling_face:; 
 - 🤔 Meus hobbies são cubos mágicos e xadrez;
+- :microscope: Amo física e matemática;
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
 - 📫 Por favor, envie um email para matheus.martino97@gmail.com para me encontrar.
