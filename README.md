@@ -20,9 +20,9 @@ Olá, me chamo **Matheus Martino**, sou de Cerquilho, SP, atualmente estou estud
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
-- 👨🏽‍💻 Estou estudando backend com **Express** que é um framework em **Node.js**;
-- 🌱 Estou aprendendo como integrar minhas próprias **API** com meus projetos de **front-end**; 
-- 🤔 Meus hobbies são mecânica de motos e jogos online;
+- 👨🏽‍💻 Estou estudando desenvolvimento front-end com **React**;
+- 🌱 Atualmente estou estudando **React Router DOM**, **React Testing Library**, **Jest**, **Redux** afim de aprimorar e deixar meus projetos em **React** cada vez mais completos :slightly_smiling_face:; 
+- 🤔 Meus hobbies são cubos mágicos e xadrez;
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
 - 📫 Por favor, envie um email para johnatas.henrique@gmail.com para me encontrar.
