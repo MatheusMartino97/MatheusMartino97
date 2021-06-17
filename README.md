@@ -27,7 +27,7 @@ Olá, me chamo **Matheus Martino**, sou de Cerquilho, SP, atualmente estou estud
 - :microscope: Amo física e matemática;
 - 💼 Estudando muito para evoluir na minha carreira de desenvolvedor;
 - 📫 Por favor, envie um email para matheus.martino97@gmail.com para me encontrar.
-- 📝 Veja meu <a href="https://gitconnected.com/matheusmartino97/resume" target="_blank">Curriculum Vitae</a> para mais informações.
+- 📝 Veja meu <a href="https://drive.google.com/file/d/1zf0eVeqZM-nBFcmMC7mRRKSpPugMJHSl/view?usp=sharing" target="_blank">Curriculum Vitae</a> para mais informações.
 - :top: Visite meu <a href="https://matheusmartino97.github.io/meu-portfolio/#/" target="_blank">Portfólio</a> e veja meus projetos!.
 
 
