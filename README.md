@@ -21,14 +21,14 @@ Olá, me chamo **Matheus Martino**, sou de Cerquilho, SP, atualmente estou estud
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
 - 👨🏽‍💻 Estou estudando desenvolvimento front-end com **React**;
-- 🌱 Atualmente estou estudando **React Router DOM**, **React Testing Library**, **Jest**, **Redux** afim de aprimorar minhas habilidades com **Single Page Applications** e deixar meus projetos em **React** cada vez mais completos e robustos :slightly_smiling_face:;
+- 🌱 Atualmente estou estudando **React Router DOM**, **React Testing Library**, **Jest**, **Redux** a fim de aprimorar minhas habilidades com **Single Page Applications** e deixar meus projetos em **React** cada vez mais completos e robustos :slightly_smiling_face:;
 - :rocket: Evoluindo cada vez mais em **Test Driven Development**;
 - 🤔 Meus hobbies são cubos mágicos e xadrez;
 - :microscope: Amo física e matemática;
 - 💼 Estudando muito para evoluir na minha carreira de desenvolvedor;
 - 📫 Por favor, envie um email para matheus.martino97@gmail.com para me encontrar.
 - 📝 Veja meu <a href="https://drive.google.com/file/d/1zf0eVeqZM-nBFcmMC7mRRKSpPugMJHSl/view?usp=sharing" target="_blank">Curriculum Vitae</a> para mais informações.
-- :top: Visite meu <a href="https://matheusmartino97.github.io/meu-portfolio/#/" target="_blank">Portfólio</a> e veja meus projetos!
+- :top: Visite meu <a href="https://matheusmartino97.github.io/portfolio/#/" target="_blank">Portfólio</a> e veja meus projetos!
 
 
 **Linguagens e ferramentas:**  
