@@ -20,9 +20,8 @@ Olá, me chamo **Matheus Martino**, sou de Cerquilho, SP, atualmente estou estud
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
-- 👨🏽‍💻 Estou estudando desenvolvimento front-end com **React**;
-- 🌱 Atualmente estou estudando **React Router DOM**, **React Testing Library**, **Jest**, **Redux** a fim de aprimorar minhas habilidades com **Single Page Applications** e deixar meus projetos em **React** cada vez mais completos e robustos :slightly_smiling_face:;
-- :rocket: Evoluindo cada vez mais em **Test Driven Development**;
+- 🌱 Atualmente estou praticando com **Express**, **Node.JS**, **MondoDB**, **MySQL**, **Sequelize** e **Socket.IO** a fim de aprimorar minhas habilidades com **Back-End** e deixar meus projetos cada vez mais completos e robustos :slightly_smiling_face:;
+- :rocket: Evoluindo cada vez mais em arquiteturas como **SOLID**, **MSC**, **MVC**, **ORM**, assim como em padrões **REST** e **RESTful APIs**;
 - 🤔 Meus hobbies são cubos mágicos e xadrez;
 - :microscope: Amo física e matemática;
 - 💼 Estudando muito para evoluir na minha carreira de desenvolvedor;
