@@ -57,13 +57,12 @@ Olá, me chamo **Matheus Martino**, sou de Cerquilho, SP, atualmente estou estud
 
 **Stats:**
 <div>
-    <span>
+  <span>
     <img src="https://github-readme-stats.vercel.app/api?username=MatheusMartino97&count_private=true&show_icons=true&theme=radical" alt="MatheusMartino97" />
-</span>
-<span>
+  </span>
+  <span>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMartino97&layout=compact&theme=radical" alt="MatheusMartino97" />
-</span>
-
+  </span>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MatheusMartino97" alt="MatheusMArtino97" /> </p>
