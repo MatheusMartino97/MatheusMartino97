@@ -61,7 +61,7 @@ Olá, me chamo **Matheus Martino**, sou de Cerquilho, SP, atualmente estou estud
     <img src="https://github-readme-stats.vercel.app/api?username=MatheusMartino97&count_private=true&show_icons=true&theme=radical" alt="MatheusMartino97" />
   </span>
   <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMartino97&layout=compact&theme=radical" alt="MatheusMartino97" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMartino97&layout=compact&theme=radical&langs_count=6" alt="MatheusMartino97" />
   </span>
 </div>
 
