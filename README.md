@@ -14,7 +14,7 @@
 <br />
 <br />
 
-Olá, me chamo **Matheus Martino**, sou de Cerquilho, SP, atualmente estou estudando **Desenvolvimento de Software** na <a href="https://github.com/betrybe">Trybe<a/>. 
+Olá, me chamo **Matheus Martino**, sou de Cerquilho, SP, atualmente sou **Desenvolvimento de Software** na <a href="https://www.linkedin.com/company/qwkin-llc/about/">QWKIN<a/>. 
 
 **Meus interesses pessoais:**
 
