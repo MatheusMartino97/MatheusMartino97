@@ -14,17 +14,16 @@
 <br />
 <br />
 
-Olá, me chamo **Matheus Martino**, sou de Cerquilho, SP, atualmente sou **Desenvolvimento de Software** na <a href="https://www.linkedin.com/company/qwkin-llc/about/">QWKIN<a/>. 
+Olá, me chamo **Matheus Martino**, sou de Cerquilho, SP, atualmente sou **Desenvolvedor de Software** na <a href="https://www.linkedin.com/company/qwkin-llc/about/">QWKIN<a/>. 
 
 **Meus interesses pessoais:**
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
-- 🌱 Atualmente estou praticando com **Express**, **Node.JS**, **MondoDB**, **MySQL**, **Sequelize** e **Socket.IO** a fim de aprimorar minhas habilidades em **Back-End** e deixar meus projetos cada vez mais completos e robustos :slightly_smiling_face:;
-- :rocket: Evoluindo cada vez mais em arquiteturas como **SOLID**, **MSC**, **MVC**, **ORM**, assim como em padrões **REST** e **RESTful APIs**;
+- :rocket: Atualmente estou praticando com **TypeScript**, **Clean Architecture**, **Clean Code**, **SOLID** a fim de aprimorar minhas habilidades em **Back-End** e deixar meus projetos cada vez mais completos, robustos e escaláveis :slightly_smiling_face:;
+- 🌱 Estudando e evoluindo cada vez mais em gerenciamento de **Bancos de Dados** e **Clusters**;
 - 🤔 Meus hobbies são cubos mágicos e xadrez;
 - :microscope: Amo física e matemática;
-- 💼 Estudando muito para evoluir na minha carreira de desenvolvedor;
 - 📫 Por favor, envie um email para matheus.martino97@gmail.com para me encontrar.
 - 📝 Veja meu <a href="https://drive.google.com/file/d/1JZCZroAaK8ervLZz13zTmb2xztzCJ-iC/view" target="_blank">Curriculum Vitae</a> para mais informações.
 - :top: Visite meu <a href="https://matheusmartino97.github.io/portfolio/#/" target="_blank">Portfólio</a> e veja meus projetos!
